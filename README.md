@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahodarc97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KUYeDObWCrDfdAuaoPkfDKIbqljuc8nf/view?usp=sharing](https://drive.google.com/file/d/1KUYeDObWCrDfdAuaoPkfDKIbqljuc8nf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KUYeDObWCrDfdAuaoPkfDKIbqljuc8nf/view?usp=sharing](https://drive.google.com/file/d/1l-X4Y2t6XhzW4DoxYM-CmngajDSjQD5a/view)]
 
 - ⚡ Fun fact **I love reading books, listening to music and watching TV series during my free time.**
 
