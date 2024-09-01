@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @mahoda-adikari</h1>
-<h3 align="center">Tech Enthusiast | Software Engineering Graduate</h3>
+<h3 align="center">Tech Enthusiast | Software QA Engineer</h3>
 
 - 🌱 I’m currently learning **Software Quality Engineering practices and methodologies.**
 
