@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahoda-adikari](https://github.com/mahoda-adikari)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahodaadikari](https://www.linkedin.com/in/mahodaadikari)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mahoda-adikari](https://www.linkedin.com/in/mahoda-adikari)
 
 - 💬 Ask me about **OOP, SQL, Software Quality Engineering.**
 
