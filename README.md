@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mahoda-adikari)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahoda-adikari](https://www.linkedin.com/in/mahoda-adikari)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahoda-adikari)
 
 - 💬 Ask me about **OOP, SQL, Software Quality Engineering.**
 
 - 📫 How to reach me **mahodarc97@gmail.com**
 
-- 📄 Know about my experiences [Resume_MahodaAdikari](https://drive.google.com/file/d/1l-X4Y2t6XhzW4DoxYM-CmngajDSjQD5a/view](https://drive.google.com/file/d/1rGz6JuUH2Z3F1DcmWHTmJBSmbfR4r3Os/view?usp=sharing)
+- 📄 Know about my experiences [Resume_MahodaAdikari](https://drive.google.com/file/d/1rGz6JuUH2Z3F1DcmWHTmJBSmbfR4r3Os/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading books, listening to music and watching TV series during my free time.**
 
