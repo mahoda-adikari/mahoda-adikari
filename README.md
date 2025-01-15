@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **OOP, SQL, Software Quality Engineering.**
 
-- 📫 How to reach me **mahodarc97@gmail.com**
+- 📫 How to reach me mahodarc97@gmail.com
 
 - 📄 Know about my experiences [Resume_MahodaAdikari](https://drive.google.com/file/d/1rGz6JuUH2Z3F1DcmWHTmJBSmbfR4r3Os/view?usp=sharing)
 
