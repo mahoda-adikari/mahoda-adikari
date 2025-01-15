@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Quality Engineering practices and methodologies.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahoda-adikari](https://github.com/mahoda-adikari)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mahoda-adikari)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahoda-adikari](https://www.linkedin.com/in/mahoda-adikari)
 
