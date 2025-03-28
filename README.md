@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahoda-adikari)
 
-- 💬 Ask me about **OOP, SQL, Software Quality Engineering.**
+- 💬 Ask me about **Java, Selenium, TestNG, Page Object Model, OOP, SQL, Software Quality Engineering.**
 
 - 📫 How to reach me mahodarc97@gmail.com
 
