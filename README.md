@@ -11,7 +11,7 @@
 
 - 📫 How to reach me mahodarc97@gmail.com
 
-- 📄 Know about my experiences [Resume_MahodaAdikari](https://drive.google.com/file/d/1rGz6JuUH2Z3F1DcmWHTmJBSmbfR4r3Os/view?usp=sharing)
+- 📄 Know about my experiences [Resume_MahodaAdikari]([https://drive.google.com/file/d/1rGz6JuUH2Z3F1DcmWHTmJBSmbfR4r3Os/view?usp=sharing](https://docs.google.com/presentation/d/1HvcGeqx8_KnLX4SPiKEqH0VwtCnsHErteyoFgLbfsDk/edit?usp=sharing))
 
 - ⚡ Fun fact **I love reading books, listening to music and watching TV series during my free time.**
 
