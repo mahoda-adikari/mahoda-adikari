@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahoda-adikari&label=Profile%20views&color=0e75b6&style=flat" alt="mahoda-adikari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahoda-adikari&column=3&margin-w=15&margin-h=15&theme=onedark" alt="mahoda-adikari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahoda-adikari&row=3&column=3&theme=onedark" alt="mahoda-adikari" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mr_mathers97" target="blank"><img src="https://img.shields.io/twitter/follow/mr_mathers97?logo=twitter&style=for-the-badge" alt="mr_mathers97" /></a> </p>
 
