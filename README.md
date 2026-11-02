@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mahodarc97@gmail.com**
 
-- 📄 Know about my experiences [Mahoda_Adikari_Resume](https://drive.google.com/file/d/1swYsFGpYkzHA8eCMuTVzuk6S7rKpkC1g/view?usp=sharing)
+- 📄 Know about my experiences [Mahoda_Adikari_Resume](https://canva.link/bzp3u1wrl058cug)
 
 - ⚡ Fun fact **"The only real mistake is the one from which we learn nothing." - Henry Ford**
 
